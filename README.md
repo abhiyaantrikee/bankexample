@@ -1,6 +1,6 @@
-# Sample Open Bank
+# Bank as a Service
 
-Sample bank application demonstrating concepts in the context of DDD and Microservices
+Sample bank as a service and demonstrating concepts in the context of DDD and Microservices
 
 ## Prerequisite
 
