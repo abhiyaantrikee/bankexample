@@ -1,2 +1,1 @@
-# bankexample
-Repository for open bank using Spring Cloud
+Sample bank application demonstrating concepts in the context of DDD and Microservices
